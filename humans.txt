@@ -1,0 +1,15 @@
+/* TEAM */
+Your title: Martin Olsson.
+Site:
+Twitter: marreolsson.
+Location: Nybro, Sweden.
+
+/* THANKS */
+Name: Mike, Giraffe academy, youtube
+
+
+/* SITE */
+Last update: 2017/11/16
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Visual Studio Code, Docker, Gimp

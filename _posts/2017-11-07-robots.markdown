@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "robots.txt"
+date:   2017-11-07 11:04:46 -0600
+categories: jekyll update
+author: Martin Olsson
+---
+#### What is robots.txt and how have you configured it for your site?
+
+Robots.txt är en text fil man lägger till på webbplatsen.
+I textfilen kan man lägga till regler för vad sökrobotar får komma åt. Du kan själv välja vilka mappar eller filer som ska döljas för dessa. Det kan dock lätt ignoreras av sk. bad robots.
+
+Jag valde att köra Disallow på allt innehåll då sidan för tillfället endast utvecklats för personligt bruk.
