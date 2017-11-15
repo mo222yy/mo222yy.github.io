@@ -1,9 +1,11 @@
 @charset "utf-8";
 @import 'header';
 @import 'about';
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
+
 // Define defaults for each variable.
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-family: 'Barlow Condensed', sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -13,9 +15,9 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      #0e0f0f !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #D1A400 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -48,3 +50,5 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+

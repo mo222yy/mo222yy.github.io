@@ -5,5 +5,5 @@ permalink: /blog/
 ---
 
 {% for post in site.posts %}
- <li><a href="{{ post.url}}">{{post.title}}</a></li>
+ <li><a href="{{ post.url}}" class="blog-posts">{{post.title}}</a></li>
 {% endfor %}
